@@ -1,7 +1,7 @@
 <?php
 	session_start();
 
-	$DEPURAR = true;
+	$DEPURAR = false;
 	
 	include "includes/cabecera.php";
 
